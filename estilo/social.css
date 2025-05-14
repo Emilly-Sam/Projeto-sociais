@@ -21,9 +21,9 @@ a{
     text-align: center;
     text-decoration: none;
     color: white;
-    background-color: darkred;
+    background-color: rgb(72, 1, 102);
     margin-top: -5px;
 }
 a:hover{
-    background-color: red;
+    background-color: darkviolet;
 }
